@@ -1,0 +1,5 @@
+{
+  "name": "TokenPulse",
+  "description": "A high-end dashboard to track, visualize, and optimize LLM token usage and real-time costs across multiple providers.",
+  "requestFramePermissions": []
+}
